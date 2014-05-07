@@ -3,7 +3,7 @@ Cycle Tim-LookbackAPI example
 
 ## Overview
 
-Click on the row in a grid to load cycle time for a selected story.
+Single-click on the row in a grid to load cycle time for a selected story.
 ![](pic.png)
 
 This app is available on AS IS basis. It is not supported by Rally support.
